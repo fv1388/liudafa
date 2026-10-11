@@ -1,0 +1,8 @@
+{
+  "name": "NexusGrowth 跨境独立站11大自动化增长引擎",
+  "description": "专为跨境电商卖家、外贸工厂与海外商家打造的高转化落地平台，提供自动化SEO霸屏、TikTok/Pinterest矩阵、AR互动磁铁与Google Maps探针等11大增长打法及交互体验。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
